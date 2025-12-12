@@ -8,9 +8,7 @@ body {
   color: #fff;
   padding: 12px 24px;
   border: none;
-  transition:
-    transform 0.3s,
-    box-shadow 0.3s;
+  transition: transform 0.3s, box-shadow 0.3s;
 }
 .btn:hover {
   transform: scale(1.05);
